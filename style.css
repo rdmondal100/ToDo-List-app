@@ -1,0 +1,95 @@
+
+
+
+#navBar{
+    background-color: #372d2d!important;
+   
+    font-weight: 1000;
+  }
+  
+  .navbar-brand{
+        color: #ff007c;
+  }
+  
+  .input-group{
+  
+    gap:15px;
+    
+    
+  }
+  
+  /* button */
+  #deleteAllBtn{
+  background-color: red;
+    color: white;
+    font-weight: 700;
+    border-radius:7px ;
+    position:relative;
+    
+  }
+  #addBtn{
+  background-color: green;
+    color: white;
+    font-weight: 700;
+      border-radius:7px ;
+      position:relative;}
+  #saveBtn{
+  background-color: green;
+    color: whitesmoke;
+    font-weight: 700;
+      border-radius:7px ;
+      position:relative;}
+  
+  #addTaskInput{
+    background-color:#8b7e7e!important;
+    border-radius: 7px;
+  }
+    
+  
+  /* 
+  
+  .container-1 {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:45%;
+  }
+   */
+  
+  thead{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  #EditBtn{
+      border:none;
+      background:transparent;
+  
+  }
+  
+  
+  #DeleteBtn{
+    background:transparent;
+    border:none;
+    color:#ff0000!important;
+  }
+  #bi-trash3{
+    color:red;
+    
+  }
+  .container-2{
+    
+    position:absolute;
+    left:30%;
+    top:15%;
+    /* transform: translate(-50%, -50%); */
+    width:45%;
+    
+  }
+  #taskManager{
+  box-sizing: border-box;
+   box-shadow: 1px 2px 20px 2px gray;
+    
+    
+  }
